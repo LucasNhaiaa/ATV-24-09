@@ -85,8 +85,7 @@ tarefas. Os dados são validados e persistidos em JSON.
 | CT07 | Excluir tarefa confirmada | Registro removido | Conforme esperado | Aprovado |
 | CT08 | Reabrir após salvar | Dados preservados | Conforme esperado | Aprovado |
 
-Comando: `python -m unittest discover -s tests -v`  
-Resultado: 8 testes executados, todos aprovados.
+ Resultado: 8 testes executados, todos aprovados.
 
 ## Demonstração
 Abrir com `python main.py`, cadastrar uma tarefa, demonstrar uma validação inválida,
